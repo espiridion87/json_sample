@@ -2,21 +2,18 @@
   {
     "my_int": "1",
     "my_string": "xiotesting",
-    "my_date": "2007-04-05T12:30Z",
     "my_float": "1.23"
     "my_boolean": "true"
   },
   {
     "my_int": "3",
     "my_string": "xiotesting2",
-    "my_date": "2008-05-06T12:30Z",
     "my_float": "4.56"
     "my_boolean": "false"
   },
   {
     "my_int": "5",
     "my_string": "xiotesting3",
-    "my_date": "2007-09-08T12:30Z",
     "my_float": "121.34"
     "my_boolean": "true"
   }
